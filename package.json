@@ -1,0 +1,24 @@
+{
+  "name": "news-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huweisir/news-web.git"
+  },
+  "author": "huwei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huweisir/news-web/issues"
+  },
+  "homepage": "https://github.com/huweisir/news-web#readme"
+}
